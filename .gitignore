@@ -1,0 +1,48 @@
+﻿#—————[ Unity Generated ]—————#
+Temp/*
+Builds/*
+Builds/
+Library/*
+
+#—————[ Unit Tests Temp Files ]—————#
+Assets/test-results/*
+Assets/test-results.meta
+test-results/*
+test-results.meta
+
+#—————[VS/MD Generated]—————#
+*.svd
+*.userprefs
+*.tmproj
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.exe
+*.app
+*.user
+*.unityproj
+*.booproj
+
+#—————[OS Generated]—————#
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+*.pbxuser
+*.xccheckout
+*.xcscheme
+
+#—————[Other]—————#
+Kingpin
+Hemp Inc
+obj
+AdjustPostBuildiOSLog.txt
+DLC
+Assets/Editor/mod_pbxproj.pyc
+Assets/Editor/mod_pbxproj.pyc.meta
+XcodeProject
